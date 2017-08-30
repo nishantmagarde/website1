@@ -1,0 +1,37 @@
+body{ background: url("Hybrid Fitness.jpg") 
+        no-repeat center center fixed;
+    background-size: cover;
+     font-family: 'Anton', sans-serif;
+}
+h1{
+    font-size: 3em;
+   
+}
+div{
+    background: #dd4814;
+    width:40%;
+    margin: 100px auto;
+    text-align: center;
+    border-radius: 30px;
+    opacity: 0.8;
+}
+button{
+    background: rcba(50,50,50); 
+    padding: 5px;
+    color: black;
+    font-size: 2em;
+    border-radius: 10px;
+}
+i{
+    font-size: 4em;
+}
+p{
+    font-size: 1.5em;
+     
+}
+div1{
+    font-family: fantasy;
+    font-size: 0.8em;
+    text-align: right;
+    margin-bottom: 2px;
+}
